@@ -1,5 +1,5 @@
 {
-    "name": "smlmrtns/composer",
+    "name": "olv/materialize",
     "description": "my package of composer things",
     "license": "MIT",
     "minimum-stability": "alpha",
