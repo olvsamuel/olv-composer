@@ -1,6 +1,6 @@
 {
     "name": "olv/materialize",
-    "description": "my package of composer things",
+    "description": "pack content materialize for web devs",
     "license": "MIT",
     "minimum-stability": "alpha",
     "authors": [
