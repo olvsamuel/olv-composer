@@ -1,7 +1,6 @@
 {
     "name": "smlmrtns/composer",
     "description": "my package of composer things",
-    "type": "library",
     "license": "MIT",
     "minimum-stability": "alpha",
     "authors": [
