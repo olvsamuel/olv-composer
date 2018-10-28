@@ -1,0 +1,16 @@
+{
+    "name": "smlmrtns/composer",
+    "description": "my package of composer things",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "alpha",
+    "authors": [
+        {
+            "name": "Samuel de Oliveira",
+            "email": "olvsamuel.edu@gmail.com"
+        }
+    ],
+    "require": {
+      "php": "^5.3.3 || ^7.0"
+    }
+}
